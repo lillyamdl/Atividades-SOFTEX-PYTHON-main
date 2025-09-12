@@ -1,0 +1,1 @@
+print(f"Olá, mundo! Meu primeiro código versionando com Git e Giithub.")

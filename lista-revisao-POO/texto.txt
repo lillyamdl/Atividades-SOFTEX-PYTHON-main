@@ -1,0 +1,35 @@
+Nível Fácil
+Listas: Crie uma lista com os números de 1 a 5 e imprima cada elemento.
+Condicionais: Peça um número ao usuário e verifique se é positivo, negativo ou zero.
+Laços: Use um loop for para imprimir os números de 1 a 10.
+Dicionários: Crie um dicionário com nomes e idades de 3 pessoas e imprima cada par.
+Funções: Crie uma função que recebe dois números e retorna a soma.
+Strings: Peça uma palavra ao usuário e imprima o número de caracteres.
+Listas: Crie uma lista com 3 frutas e adicione uma nova fruta.
+Condicionais: Verifique se um número é par ou ímpar.
+Laços: Use um loop while para imprimir números de 1 a 5.
+Dicionários: Crie um dicionário de produtos e preços, depois imprima apenas os produtos.
+
+Nível Intermediário
+Listas + Laços: Crie uma lista de números e calcule a soma de todos os elementos.
+Dicionários com Tuplas: Crie um dicionário onde cada chave é um nome e o valor é uma tupla com (idade, cidade).
+Condicionais Aninhadas: Classifique um número como "pequeno" (<10), "médio" (10-50) ou "grande" (>50).
+Laços Aninhados: Imprima uma tabuada de 1 a 5 (ex: 1x1=1, 1x2=2, etc.).
+Funções + Listas: Crie uma função que recebe uma lista e retorna o maior número.
+Dicionários: Conte a frequência de cada letra em uma palavra (ex: "hello" → {'h':1, 'e':1, 'l':2, 'o':1}).
+Listas de Dicionários: Crie uma lista de dicionários representando livros (título, autor, ano) e imprima todos.
+Condicionais + Strings: Verifique se uma string é um palíndromo (ex: "radar").
+Laços + Condicionais: Imprima apenas os números pares entre 1 e 20.
+Funções Recursivas: Crie uma função recursiva para calcular o fatorial de um número.
+
+Mix de Conceitos
+Listas + Dicionários : Transforme duas listas (uma de chaves, outra de valores) em um dicionário.
+Tuplas + Laços : Crie uma tupla com coordenadas (x, y) e calcule a distância até a origem (0,0).
+Condicionais + Dicionários : Crie um menu simples onde o usuário escolhe opções (ex: 1-ver estoque, 2-adicionar item).
+Laços + Strings : Conte quantos vogais existem em uma string.
+Funções + Dicionários : Crie uma função que atualiza a idade de uma pessoa em um dicionário.
+Listas + Funções : Crie uma função que filtra números pares de uma lista.
+Dicionários com Listas : Crie um dicionário onde cada chave é um aluno e o valor é uma lista de notas.
+Condicionais + Laços : Verifique se todos os números em uma lista são positivos.
+Strings + Dicionários : Conte a ocorrência de cada palavra em uma frase (ignore guardadas/minúsculas).
+Tuplas + Condicionais : Compare duas tuplas representando dados (ano, mês, dia) e veja qual é mais recente.
