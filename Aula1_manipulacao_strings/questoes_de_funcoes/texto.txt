@@ -1,0 +1,5 @@
+Crie uma função que receba um nome e exiba uma saudação personalizada.
+Crie uma função que receba dois números e retorne a média deles.
+Faça uma função que receba uma frase e devolva quantas vogais ela possui.
+Crie uma função que receba uma string e retorne essa string invertida.
+Desenvolva uma função que receba uma lista de nomes e retorne apenas os que começam com a letra "A".
