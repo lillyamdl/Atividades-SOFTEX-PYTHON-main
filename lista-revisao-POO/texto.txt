@@ -23,7 +23,7 @@ Laços + Condicionais: Imprima apenas os números pares entre 1 e 20.
 Funções Recursivas: Crie uma função recursiva para calcular o fatorial de um número.
 
 Mix de Conceitos
-Listas + Dicionários : Transforme duas listas (uma de chaves, outra de valores) em um dicionário.
+
 Tuplas + Laços : Crie uma tupla com coordenadas (x, y) e calcule a distância até a origem (0,0).
 Condicionais + Dicionários : Crie um menu simples onde o usuário escolhe opções (ex: 1-ver estoque, 2-adicionar item).
 Laços + Strings : Conte quantos vogais existem em uma string.
