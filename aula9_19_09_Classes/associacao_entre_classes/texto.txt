@@ -1,0 +1,32 @@
+Exercício 1
+
+Crie duas classes: Autor e Livro.
+
+    O autor tem nome e nacionalidade.
+    O livro tem título e um objeto autor.
+    Crie 2 autores e 3 livros.
+    Mostre no terminal o nome do livro e o nome do autor.
+
+📝 Exercício 2
+
+Crie as classes Cliente e ContaBancaria.
+
+    O cliente tem nome e CPF.
+    A conta bancária tem número e um cliente associado.
+    Imprima uma mensagem mostrando o titular da conta e o número da conta.
+
+📝 Exercício 3
+
+Crie as classes Time e Jogador.
+
+    Um time pode ter vários jogadores.
+    Crie 2 times com 3 jogadores cada.
+    Mostre a lista de jogadores de cada time.
+
+📝 Exercício 4 (Desafio)
+
+Crie as classes Playlist e Musica.
+
+    Uma playlist pode ter várias músicas.
+    Cada música tem título e cantor.
+    Adicione músicas à playlist e exiba todas.
