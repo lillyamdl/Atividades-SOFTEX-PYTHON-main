@@ -1,0 +1,5 @@
+Crie uma classe abstrata Funcionariocom um método calcular_bonus(). Implemente subclasses Gerentee Desenvolvedor, cada uma com sua própria lógica de bônus.
+
+Crie uma função desenhar_formaque receba diferentes classes ( Circulo, Quadrado, Triangulo) e chame um método desenhar()polimorficamente.
+
+Implemente um programa que usa polimorfismo de operador: Crie uma classe Moedaque permita somar duas moedas ( m1 + m2) e retornar uma nova instância.
