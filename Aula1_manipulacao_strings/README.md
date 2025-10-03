@@ -6,5 +6,3 @@ Feita para iniciantes na linguagem e na programação :D
 Como resolver as questões? 🥲
 
  - Questão 1: Ler uma entrada e determinar sua quantidade de vogais e consoantes.
-
- 

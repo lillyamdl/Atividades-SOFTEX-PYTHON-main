@@ -1,3 +1,0 @@
-#questão conceitual:
-
-# 
