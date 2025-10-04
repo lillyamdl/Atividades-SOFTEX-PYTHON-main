@@ -1,0 +1,7 @@
+
+
+    Crie uma classe abstrata Funcionario com um método abstrato calcular_bonus. Crie subclasses Gerente e Desenvolvedor que implementem regras diferentes de bônus.
+
+    Implemente uma classe abstrata Veiculo com métodos abstratos acelerar e frear. Crie subclasses Carro e Moto.
+
+    Crie uma classe abstrata Arquivo com um método abrir. Implemente subclasses ArquivoTexto e ArquivoImagem que exibam mensagens diferentes ao abrir.

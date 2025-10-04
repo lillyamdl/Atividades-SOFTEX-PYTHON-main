@@ -1,0 +1,7 @@
+
+
+Crie uma classe Veiculo com atributos marca e ano. Crie subclasses Carro e Moto com atributos específicos e métodos que descrevam o veículo.
+
+Implemente uma classe Funcionario com subclasses Gerente e Programador. Cada uma deve ter um método que calcule bônus de forma diferente.
+
+Crie duas classes Nadador e Corredor, cada uma com um método específico. Crie uma classe Triatleta que herde de ambas e mostre que pode nadar e correr.

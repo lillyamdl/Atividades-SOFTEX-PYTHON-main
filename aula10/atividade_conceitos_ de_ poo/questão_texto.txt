@@ -1,0 +1,4 @@
+1 - Classes identificáveis são: int, float 
+2 - Seus atributos são só permitir números inteiros ou de ponto flutuante por exemplo.
+3 - Seus métodos são funções definidas de uma classe.
+4 - EXistem várias, como por exemplo herança em que se herda caracteristicas de uma classe pai para uma classe filha, associação em que uma classe usa a outra, entre muitas outras.
