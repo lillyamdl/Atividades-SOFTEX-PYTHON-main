@@ -1,0 +1,20 @@
+🎯 Exercício 1 — (Resolvê-lo) Retangulo
+
+Crie uma classe Retangulo que:
+
+    receba largura e altura no __init__;
+    exponha area como @property (leitura);
+    exponha perimetro como @property;
+    valide que largura e altura são > 0 (levantar ValueError caso contrário);
+    implemente __repr__ para exibir Retangulo(largura=..., altura=...).
+
+💡 Dica: use _largura e _altura internamente e @property/@setter para validar.
+
+🎯 Exercício 2 — (Resolvido) Aluno com média e situação
+
+📋 Enunciado: implemente a classe Aluno com:
+
+    nome (instância), notas (lista de floats).
+    método adicionar_nota(nota).
+    @property media (média das notas).
+    @property situacao que retorna "Aprovado" se media >= 7, "Recuperação" se 5 <= media < 7, "Reprovado" caso contrário.
