@@ -1,0 +1,19 @@
+1. Cadastrar livro
+
+ - Tentar Cadastrar um livro que já foi cadastrado
+ 
+2. Cadastrar usuário:
+
+ - Tentar cadastrar um usuário novo, mas ele já existe no sistema
+
+3. Emprestar livro:
+
+- Tentar emprestar um livro que já foi emprestado pra alguém
+
+4. Devolver livro:
+
+- Testar se ao devolver um livro ele irá aparecer como disponível novamente
+
+5. Cadastrar usuario:
+
+- Testar cadastrar usuario com mesmo id e ver se dá erro

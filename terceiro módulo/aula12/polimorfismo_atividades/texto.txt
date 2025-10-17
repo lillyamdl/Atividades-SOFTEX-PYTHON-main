@@ -1,4 +1,3 @@
-Crie uma classe abstrata Funcionariocom um método calcular_bonus(). Implemente subclasses Gerentee Desenvolvedor, cada uma com sua própria lógica de bônus.
 
 Crie uma função desenhar_formaque receba diferentes classes ( Circulo, Quadrado, Triangulo) e chame um método desenhar()polimorficamente.
 

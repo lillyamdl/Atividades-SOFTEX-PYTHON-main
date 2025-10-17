@@ -1,0 +1,10 @@
+arte 2 — Consultas
+Exiba todos os alunos cadastrados.
+Exiba apenas os nomes e idades .
+Exiba os alunos da série “8º Ano”.
+Atualize a idade de um aluno.
+Exclua um aluno da tabela.
+
+
+💡 Desafio Extra
+Crie uma nova tabela chamada professores e adicione alguns registros. Depois, tente listar os professores da sua escola fictícia.
