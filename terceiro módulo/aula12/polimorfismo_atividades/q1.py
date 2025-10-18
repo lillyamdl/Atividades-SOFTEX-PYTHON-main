@@ -25,7 +25,9 @@ def desenhar_formas(formas):
         resultados.append(forma.desenhar())
         return resultados
 
-if __name__ == "__main__":
+
+circulo = Circulo()
+
     
 
 
