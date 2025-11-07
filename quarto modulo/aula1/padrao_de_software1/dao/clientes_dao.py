@@ -20,13 +20,13 @@ class ClienteDAO:
     def salvar(self, cliente: Cliente):
         with sqlite3.connect(self.db_name) as conn:
             cursor = conn.cursor()
-            cursor.execute('INSERT INTO cliente (nome, email) VALUES (?, ?)',
-                           (cliente.nome, cliente.email))
+            cursor.execute('INSERT INTO cliente (nome, email, telefone) VALUES (?, ?)',
+                           (cliente.nome, cliente.email, cliente.telefone))
             conn.commit()
 
     def listar(self):
         with sqlite3.connect(self.db_name) as conn:
             cursor = conn.cursor()
-            cursor.execute('SELECT nome, email FROM cliente')
+            cursor.execute('SELECT nome, email, telefone FROM cliente')
             rows = cursor.fetchall()
-            return [Cliente(nome, email) for nome, email in rows]
+            return [Cliente(nome, email, telefone) for nome, email, telefone in rows]
